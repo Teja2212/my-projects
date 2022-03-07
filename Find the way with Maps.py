@@ -1,2 +1,3 @@
-x=[1, 2, 3, 4, 5, 6, 7]
-print(list(map(lambda x: x*3, x)))
+x=10
+fun = lambda x: x+25
+print(fun(x))
